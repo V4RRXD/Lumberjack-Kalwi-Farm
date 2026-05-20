@@ -7,7 +7,7 @@ const autoEat = require('mineflayer-auto-eat');
 const bot = mineflayer.createBot({
   host: 'kalwi.id',
   port: 25565,
-  username: 'Rio13245',
+  username: 'V4RRXDD',
   version: false
 });
 
